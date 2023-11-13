@@ -1,9 +1,9 @@
-#
+# IROUS IP
   IP INFORMATION GATHERING TOOL
                   BY
                         CP THE VIRUS
 
-# FOLLOW THIS COMMAND :
+# FOLLOW THIS COMMAND :
 
 ```
  git clone https://github.com/CP-THE-VIRUS/IROUS-IP
